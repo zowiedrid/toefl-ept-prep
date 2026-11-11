@@ -118,3 +118,4 @@ export function getInitialPracticeHistories(): TestResult[] {
   // Return with latest attempt first
   return [attempt2, attempt1];
 }
+
